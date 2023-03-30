@@ -93,7 +93,7 @@ GEM
     nio4r (2.5.8)
     nokogiri (1.14.2-x86_64-linux)
       racc (~> 1.4)
-    puma (6.1.1)
+    puma (6.2.0)
       nio4r (~> 2.0)
     racc (1.6.2)
     rack (2.2.6.4)
@@ -146,7 +146,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  puma (~> 6.1.1)
+  puma (~> 6.1)
   rails (~> 6.1.7, >= 6.1.7.3)
 
 BUNDLED WITH
